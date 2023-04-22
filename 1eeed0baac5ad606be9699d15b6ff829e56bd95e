@@ -16,6 +16,23 @@
       "message": "Hi accept the changes ",
       "revId": "1eeed0baac5ad606be9699d15b6ff829e56bd95e",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ddf201fb_22f59285",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021052
+      },
+      "writtenOn": "2023-04-22T23:40:47Z",
+      "side": 1,
+      "message": "Hi Accept the changes ",
+      "revId": "1eeed0baac5ad606be9699d15b6ff829e56bd95e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
